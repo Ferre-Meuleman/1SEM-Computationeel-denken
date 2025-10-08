@@ -1,0 +1,10 @@
+Challenge 4 – beeldverwerking: 
+Je hebt als invoer twee figuren waarvan de inhoud op het eerste zicht betekenisloos is.  
+Niets is minder waar.  
+De afbeeldingen hebben dezelfde dimensies.  
+Als je de beelden combineert verschijnt een pincode van 4 cijfers lang, en wel op de volgende manier.  
+Ontwikkel een algoritme die de twee figuren combineert en voor elke positie de kleur in de invoerbestanden vervangt door een andere kleur.  
+Als de waarden van beide pixels dezelfde zijn op beide figuren, kleur het pixel op de nieuwe figuur wit; in het andere geval kleur je de pixel op die positie zwart. 
+Je vindt uiteindelijk een pincode van vier cijfers lang die toegang geeft tot de volgende opgave : X X X X
+
+= 4763

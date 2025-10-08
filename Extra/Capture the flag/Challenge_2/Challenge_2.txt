@@ -1,0 +1,27 @@
+Challenge 2 -- simulatie: 
+Je moet een 4-cijferige code ontwarren.  
+Dit doe je door het spelen van een Pachinko.  
+Pachinko wordt gespeeld op een speciale machine (een soort flipperkast), 
+die we als volgt modelleren. 
+We hebben een rechtopstaand rooster met hoogte m en breedte n. 
+Bovenin kan men een balletje in een kolom gooien, dat dan loodrecht naar beneden valt 
+totdat het op een obstakel botst of totdat hij in een poort (= een vakje met een getal erin) 
+terechtkomt, of totdat hij onderaan uit het rooster valt. 
+In dat laatste geval heb je niets verdiend. 
+Komt het balletje in een poort, dan ben je klaar en heb je gewonnen. 
+Als het balletje onderweg op een obstakel stuit (voorgesteld door -1), 
+valt hij verder omlaag in de kolom links of rechts van het obstakel: 
+de kans dat hij naar links valt is gelijk aan de kans dat hij naar rechts valt 
+(beide dus kans 0,5).  
+Intern wordt een flipperkast voorgesteld door een matrix van gehele getallen. 
+0 betekent dat er geen obstakel is, en het balletje gewoon verder naar beneden kan rollen.  
+Bij -1 is er een obstakel waarbij het balletje naar links of rechts botst.  
+Bij een getal groter dan 0 valt het balletje in een poort.
+Aanname: het rooster bevat geen obstakels direct naast elkaar (noch in dezelfde rij, noch in dezelfde kolom en noch op dezelfde diagonaal). 
+Hetzelfde voor de poorten. Verder bevatten de eerste en de laatste kolom geen obstakels of poorten. 
+Gevraagd wordt de gemiddelde te verwachten opbrengst van een gegeven flipperkast.  
+Dit is geeft een getal van 3 cijfers
+De flipperkast vind je in bijgevoegd bestand. Vertrek van die flipperkast (hoewel het programma moet werken met andere flipperkasten). Uiteindelijk construeer je een pincode van drie cijfers lang die de gemiddelde opbrengst weergeven.
+X X X 
+
+= 221

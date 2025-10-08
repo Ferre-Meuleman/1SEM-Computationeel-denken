@@ -1,0 +1,8 @@
+Challenge 1 
+-- simulatie: Voer het volgende experiment een groot aantal keren uit, 
+namelijk het vullen van twee identieke Panini plakboeken met 100 kaarten.  
+Trek telkens een willekeurige kaart.  Ga zo na wat het gemiddeld aantal 
+kaarten is dat je moet kopen om beide identieke plakboeken vol te krijgen. 
+De drie meest beduidende cijfers geven toegang tot volgende challenge: X X X
+
+= 728 of 729

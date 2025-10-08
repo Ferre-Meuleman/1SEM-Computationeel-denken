@@ -1,0 +1,12 @@
+Challenge 3 – versleutelen van tekst.  
+Caesarcodering.  
+Je vindt twee bestanden.  
+Het eerste bestand is een versleutelde tekst.  
+Het tweede bestand is een sleutel waarbij elke letter mapt op een andere letter.  
+Dit vomt de sleutel om het oorspronkelijke bestand te herstellen.  
+Om het bestand te reconstrueren vervang je elke letter op de tweede lijn in het sleutelbestand door de letter op de eerste lijn op dezelfde positie.  
+Let wel: je kan dit handmatig doen, maar dit is niet de bedoeling.  
+Het is de bedoeling om een algoritme te schrijven die de mapping automatisch uitvoert.  
+Uiteindelijk krijg je zo toegang tot een volgende sleutel: X X X X
+
+= 7654
