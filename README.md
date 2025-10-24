@@ -4,7 +4,7 @@
 - [x] Inleiding (info)
 - [x] Labo 1 (Basis bewekringen)
 - [x] Labo 2 (Loops)
-- [ ] Labo 3
+- [x] Labo 3 (Functies)
 - [ ] Labo 4
 - [ ] Labo 5
 - [ ] Labo 6
