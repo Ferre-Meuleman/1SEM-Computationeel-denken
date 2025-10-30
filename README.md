@@ -32,14 +32,16 @@
 - [ ] Extra beeldverwrking
 
 #### Extra oefeningen:
-- [ ] Overzicht oefeningen
+- [x] Overzicht oefeningen 4-6
+- [x] Overzicht oefeningen 7-8
 
 #### Tiktok:
 - [x] Chalenge 1
 
 #### Examnes:
-- [ ] Voorbeeldexamen eigen algorithme
+- [x] Voorbeeldexamen eigen algorithme
 
 ##### Beeldverwerking:
-- [ ] Examen sep 2023
-- [ ] Voorbeeldexamen beeldverwerking
+- [x] Vlaggen examen koeweit
+- [x] Vlaggen examen noorwegen
+- [x] Voorbeeldexamen beeldverwerking (cirkeles)
