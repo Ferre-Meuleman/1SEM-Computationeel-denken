@@ -28,9 +28,6 @@
 - [x] Chalenge 4
 - [x] Chalenge 5
 
-#### Extra beeldverwrking:
-- [ ] Extra beeldverwrking
-
 #### Extra oefeningen:
 - [x] Overzicht oefeningen 4-6
 - [x] Overzicht oefeningen 7-8
