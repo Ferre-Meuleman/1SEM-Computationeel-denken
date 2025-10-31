@@ -10,7 +10,7 @@
 - [ ] Labo 6
 
 ### Beeldverwerking:
-- [ ] Beeldverwerking
+- [x] Beeldverwerking
 
 ### Extra:
 #### Apps of the day:
